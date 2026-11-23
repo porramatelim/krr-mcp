@@ -3,27 +3,27 @@
     {
       "name": "data_processing_100_items",
       "unit": "seconds",
-      "value": 0.11887502670288086
+      "value": 0.10837626457214355
     },
     {
       "name": "concurrent_operations_10",
       "unit": "seconds",
-      "value": 0.010445833206176758
+      "value": 0.010241031646728516
     },
     {
       "name": "json_serialization_1000_items",
       "unit": "seconds",
-      "value": 0.005407810211181641
+      "value": 0.002845287322998047
     },
     {
       "name": "large_cluster_simulation",
       "unit": "seconds",
-      "value": 0.10928106307983398
+      "value": 0.10182380676269531
     },
     {
       "name": "concurrent_request_handling",
       "unit": "seconds",
-      "value": 0.011627674102783203
+      "value": 0.01036524772644043
     },
     {
       "name": "memory_usage_optimization",
@@ -33,22 +33,22 @@
     {
       "name": "caching_performance",
       "unit": "seconds",
-      "value": 0.013876199722290039
+      "value": 0.10856413841247559
     },
     {
       "name": "memory_efficiency",
       "unit": "MB",
-      "value": 0.40625
+      "value": 0.0
     },
     {
       "name": "quick_scan_baseline",
       "unit": "seconds",
-      "value": 0.011816978454589844
+      "value": 0.010742664337158203
     },
     {
       "name": "medium_preview_baseline",
       "unit": "seconds",
-      "value": 0.11807489395141602
+      "value": 0.10843181610107422
     }
   ]
 }
